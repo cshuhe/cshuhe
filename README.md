@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 学号202000460014
 
 已完成项目：
+
 1.implement the naive birthday attack of reduced SM3
 
 2.implement the Rho method of reduced SM3
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 
 
 未完成项目：
+
 1.implement length extension attack for SM3
 
 2.do your best to optimize SM3 implementation (software)
@@ -59,4 +61,3 @@ Here are some ideas to get you started:
 13.Implement the above ECMH scheme
 
 14.send a tx on Bitcoin testnet,and parse the tx data down to every bit,better write script yourself
-
