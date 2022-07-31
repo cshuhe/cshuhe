@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 5.Impl Merkle Tree following RFC6962
 
+6.send a tx on Bitcoin testnet,and parse the tx data down to every bit,better write script yourself
+
 
 未完成项目：
 
@@ -60,5 +62,3 @@ Here are some ideas to get you started:
 12.Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID
 
 13.Implement the above ECMH scheme
-
-14.send a tx on Bitcoin testnet,and parse the tx data down to every bit,better write script yourself
